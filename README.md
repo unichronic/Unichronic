@@ -8,10 +8,8 @@
     <img src="https://skillicons.dev/icons?i=python,js,c,nodejs,express,pytorch,qt,mongodb,docker,git,github,latex" />
 </p>
 
-- 🔭 **Currently** building web apps using Python, NodeJS, and MongoDB.
-- 🎶 **Love** listening to music and reading books to keep mr going, Canon in D being my coding companion.
-- 💻 **Looking forward** to learn more about Operating Systems
-
+- 🔭 **Currently** working on open-source softwares, and building my own little apps using Python. 
+- 🎶 **Love** listening to music and reading books to keep me going, Canon in D being my coding companion.
 
 
 ## Find me:
