@@ -5,7 +5,7 @@
 ## 🌱 Tech:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,express,mongodb,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,js,c,nodejs,express,pytorch,qt,mongodb,docker,git,github,latex" />
 </p>
 
 - 🔭 **Currently** building web apps using Python, NodeJS, and MongoDB.
