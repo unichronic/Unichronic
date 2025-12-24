@@ -11,6 +11,8 @@
 - 🔭 **Currently** working on open-source softwares, and building my own little apps using Python. 
 - 🎶 **Love** listening to music and reading books to keep me going, Canon in D being my coding companion.
 
+## Experience:
+- Google Summer of Code 2025 at Invesalius.
 
 ## Find me:
 
@@ -21,4 +23,9 @@
 
 
 ## My Github
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Unichronic&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=unichronic&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unichronic&theme=aura_dark"></td>
+  </tr>
+</table>
