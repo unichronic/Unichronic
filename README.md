@@ -8,11 +8,12 @@
     <img src="https://skillicons.dev/icons?i=python,js,c,nodejs,express,pytorch,qt,mongodb,docker,git,github,latex" />
 </p>
 
-- 🔭 **Currently** working on open-source softwares, and building my own little apps using Python. 
+- 🔭 **Currently** working on open-source softwares, and building my own little but ambitious projects.
 - 🎶 **Love** listening to music and reading books to keep me going, Canon in D being my coding companion.
 
 ## Experience:
 - Google Summer of Code 2025 at Invesalius.
+- Backend Engineer at Bentham
 
 ## Find me:
 
