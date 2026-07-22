@@ -14,6 +14,7 @@
 ## Experience:
 - Google Summer of Code 2025 at Invesalius.
 - Backend Engineer at Bentham
+- Software Engineer at Cent Health
 
 ## Find me:
 
